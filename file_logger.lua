@@ -34,7 +34,7 @@ function send_char(address, value)
     
     file:write(table_data[key])
     
-    if bytes == 0x00AC or bytes == 0x00AD then
+    if bytes == 0x00AC or bytes == 0x00AD or bytes == 0x00AE then
         file:write('\n')
         file:flush()
     end
