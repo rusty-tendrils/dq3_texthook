@@ -5,7 +5,7 @@ A basic Node.js server is used for displaying the contents written to `output.tx
 
 ## Special Thanks
 - Big Thanks to @ButThouMust and Armagon(draxxavvius) for patiently helping me through through the whole process.
-- The table file `dq3_jp.tbl` is from @ButThouMust.
+- The table file `dq3_jp.tbl` is from `dq3r_toolsbyuu`. @ButThouMust formatted it into a table file (from the character list)
 ## How do I use this?
 - ### Clone this repository
     - Clone or download this repository to your local machine.
